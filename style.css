@@ -1,0 +1,21 @@
+.navbar {
+    background-color: #2874f0;
+}
+.navbar-brand, .nav-link {
+    color: white !important;
+}
+.carousel-item img {
+    height: 300px;
+    object-fit: cover;
+}
+.product-card {
+    padding: 10px;
+    text-align: center;
+}
+.footer {
+    background-color: #172337;
+    color: white;
+    text-align: center;
+    padding: 15px 0;
+    margin-top: 20px;
+}
